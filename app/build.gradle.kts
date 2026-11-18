@@ -56,6 +56,7 @@ android {
 }
 
 dependencies {
+    implementation("androidx.lifecycle:lifecycle-service:2.8.4")
     // Core / lifecycle
     implementation("androidx.core:core-ktx:1.13.1")
     implementation("androidx.lifecycle:lifecycle-runtime-ktx:2.8.4")
