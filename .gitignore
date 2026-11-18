@@ -1,0 +1,12 @@
+# Built artifacts
+.gradle/
+build/
+.idea/
+local.properties
+*.iml
+*.iws
+.DS_Store
+captures/
+.cxx/
+*.hprof
+*.log

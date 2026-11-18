@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">toDus</string>
+
+    <!-- Welcome -->
+    <string name="welcome_title">¡Bienvenido a toDus!</string>
+    <string name="welcome_subtitle">Una aplicación de mensajería pensada para tí</string>
+    <string name="welcome_accept">Aceptar y Continuar</string>
+    <string name="welcome_terms_intro">Al continuar, aceptas nuestros </string>
+    <string name="welcome_terms">Términos</string>
+    <string name="welcome_and">" y "</string>
+    <string name="welcome_conditions">Condiciones</string>
+    <string name="welcome_conditions_of_use">" de uso"</string>
+    <string name="terms_url">https://todus.cu/terms.html</string>
+
+    <!-- Phone -->
+    <string name="phone_title">Número de teléfono</string>
+    <string name="phone_subtitle">Por favor, ingresa tu número de teléfono para continuar.</string>
+    <string name="phone_country_code">+53</string>
+    <string name="phone_hint">Número de teléfono</string>
+    <string name="phone_continue">Continuar</string>
+    <string name="phone_invalid">El número debe tener 8 dígitos</string>
+
+    <!-- Profile initial -->
+    <string name="profile_initial_title">Tu perfil</string>
+    <string name="profile_initial_name">Nombre</string>
+    <string name="profile_initial_start">Comenzar</string>
+    <string name="profile_initial_loading">Cargando tu perfil…</string>
+    <string name="profile_initial_failed">No se pudo obtener tu perfil del servidor.</string>
+
+    <!-- Home -->
+    <string name="home_status_waiting">Esperando red…</string>
+    <string name="home_status_connecting">Conectando…</string>
+    <string name="home_status_updating">Actualizando…</string>
+    <string name="home_status_online">toDus</string>
+    <string name="home_new_chat">Nuevo Chat</string>
+    <string name="home_typing">Escribiendo…</string>
+    <string name="home_empty">No tienes conversaciones todavía.</string>
+    <string name="home_empty_hint">Toca \"Nuevo Chat\" para empezar a chatear con tus contactos.</string>
+
+    <!-- Contacts -->
+    <string name="contacts_title">Contactos</string>
+    <string name="contacts_empty">Tus contactos aún no usan toDus.</string>
+
+    <!-- Conversation -->
+    <string name="conv_message_hint">Escribe un mensaje</string>
+    <string name="conv_status_online">En línea</string>
+    <string name="conv_last_seen_prefix">últ. vez </string>
+    <string name="conv_replying_to">Respondiendo a</string>
+
+    <!-- My profile -->
+    <string name="my_profile_title">Mi Perfil</string>
+    <string name="my_profile_edit">Editar Perfil</string>
+    <string name="my_profile_save">Guardar perfil</string>
+    <string name="my_profile_name_label">Nombre</string>
+    <string name="my_profile_info_label">Info</string>
+    <string name="my_profile_id_label">toDusID</string>
+    <string name="my_profile_phone_label">Número</string>
+    <string name="my_profile_change_id">Cambiar toDusID</string>
+    <string name="my_profile_change">Cambiar</string>
+    <string name="my_profile_saved">Perfil guardado</string>
+
+    <!-- User profile -->
+    <string name="user_block">Bloquear</string>
+    <string name="user_unblock">Desbloquear</string>
+
+    <!-- Service -->
+    <string name="service_channel_name">Conexión toDus</string>
+    <string name="service_channel_desc">Mantiene la conexión con el servidor de mensajería.</string>
+    <string name="service_notification_title">toDus</string>
+    <string name="service_notification_text">Conectado</string>
+
+    <!-- Common -->
+    <string name="action_back">Volver</string>
+    <string name="action_retry">Reintentar</string>
+    <string name="error_generic">Ocurrió un error. Inténtalo de nuevo.</string>
+</resources>

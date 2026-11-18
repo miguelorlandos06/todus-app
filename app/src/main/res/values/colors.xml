@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="todus_red">#E53935</color>
+    <color name="todus_red_dark">#C62828</color>
+    <color name="todus_bg">#FFFFFF</color>
+    <color name="todus_surface">#F5F5F5</color>
+    <color name="todus_chat_out">#FFFFFF</color>
+    <color name="todus_chat_in">#E53935</color>
+    <color name="todus_text_primary">#1F1F1F</color>
+    <color name="todus_text_secondary">#6B6B6B</color>
+    <color name="todus_divider">#E0E0E0</color>
+    <color name="todus_status_online">#4CAF50</color>
+    <color name="todus_status_offline">#E53935</color>
+    <color name="todus_check_sent">#9E9E9E</color>
+    <color name="todus_check_delivered">#9E9E9E</color>
+    <color name="todus_check_read">#E53935</color>
+</resources>

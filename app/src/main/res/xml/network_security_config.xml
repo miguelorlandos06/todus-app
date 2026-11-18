@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<network-security-config>
+    <base-config cleartextTrafficPermitted="false">
+        <trust-anchors>
+            <certificates src="system" />
+        </trust-anchors>
+    </base-config>
+    <!-- toDus servers use TLS. For self-signed cert scenarios, the app trusts
+         the system store by default; users can install the toDus CA via
+         Settings → Security → Encrypt credentials if needed. -->
+    <domain-config cleartextTrafficPermitted="false">
+        <domain includeSubdomains="true">todus.cu</domain>
+    </domain-config>
+</network-security-config>
